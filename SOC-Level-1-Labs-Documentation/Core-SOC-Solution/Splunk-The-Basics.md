@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Executive Summary
-In a large enterprise environment, thousands of devices—such as servers, firewalls, routers, and web applications—generate millions of log entries every second. Manually inspecting individual servers during an investigation is impossible. **Splunk** acts as the "Google for your logs," centralizing, indexing, and enabling real-time search and correlation using its powerful **SPL (Search Processing Language)**. This walkthrough covers Splunk architecture, interface navigation, data ingestion, and practical log analysis.
+In a large enterprise environment, thousands of devices such as servers, firewalls, routers, and web applications generate millions of log entries every second. Manually inspecting individual servers during an investigation is impossible. **Splunk** acts as the "Google for your logs," centralizing, indexing, and enabling real-time search and correlation using its powerful **SPL (Search Processing Language)**. This walkthrough covers Splunk architecture, interface navigation, data ingestion, and practical log analysis.
 
 ---
 
