@@ -104,7 +104,7 @@ SOAR unifies tools through API integrations and predefined **Playbooks**. This e
 * **Question:** Is manual analysis vital within a SOAR workflow? Yay or Nay?  
   * **Answer:** `Yay`
 * **Question:** From where is the CVE Patching playbook fetching the new CVEs?  
-  * **Answer:** `NVD / CVE Feed`
+  * **Answer:** `Advisory lists`
 * **Question:** In the CVE Patching playbook, if the assets are found vulnerable even after the patch is deployed, what does the SOC develop next?  
   * **Answer:** `Custom mitigation script`
 * **Captured Lab Flag:** `THM{AUT0M@T1N6_S3CUR1T¥}`
