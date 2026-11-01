@@ -1,4 +1,3 @@
-<img width="1856" height="724" alt="image" src="https://github.com/user-attachments/assets/662a8ac5-e03d-40f2-81a5-c1a806065c41" />
 # 🏔️ Summit: Conquering the Pyramid of Pain (TryHackMe Walkthrough)
 
 **Lab Title:** Summit: Conquering the Pyramid of Pain  
