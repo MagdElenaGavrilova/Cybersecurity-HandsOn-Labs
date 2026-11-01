@@ -18,7 +18,7 @@ As Blue Team security analysts and detection engineers, our core mission is to a
 
 The Pyramid of Pain is a conceptual model that ranks Indicators of Compromise (IoCs) based on the operational friction and "pain" inflicted on an adversary when those indicators are successfully blocked or mitigated:
 
-``
+<pre>
         /\          High Pain for Attacker (Difficult to Change)
        /  \         ---------------------------------------------
       /    \        5. TTPs (Behavior, Tactics & Procedures)
@@ -26,6 +26,7 @@ The Pyramid of Pain is a conceptual model that ranks Indicators of Compromise (I
     /        \      3. Network Artifacts (C2, Domains, IPs)
    /__________\     2. Host Artifacts (Files, Registry keys, Hashes)
   /____________\    1. Hash Values (MD5, SHA-256) - Trivial to Change
+</pre>
 
 Hash Values (MD5 / SHA-256): The base of the pyramid. Blocking a file hash forces the attacker to alter a single bit in their code to generate an entirely new hash, rendering simple signature-based blocking trivial to bypass.
 
