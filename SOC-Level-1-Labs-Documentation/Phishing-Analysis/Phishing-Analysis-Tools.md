@@ -369,19 +369,19 @@ PhishTool is a platform designed to streamline and automate phishing email inves
 - **Analysis:** Clicking on the main PDF file object inside ANY.RUN opens the **File Details** panel, revealing cryptographic hashes (MD5, SHA-1, SHA-256).
 - 👉 **Answer:** `4a2775eae2ebef41901a3f08d3b857c8`
 
-<img width="705" height="326" alt="image6phishing" src="https://github.com/user-attachments/assets/9f7c744f-f4db-4dd7-93a8-5ce92c939263" />
+<img width="705" height="326" alt="image7phishing" src="https://github.com/user-attachments/assets/29f80f08-48ff-4a34-b8bc-3564b18fd5d9" />
 
 #### ❓ Question 4: The PDF attachment contains a malicious URL. What URL is shown in the Processes tab on the right?
 - **Analysis:** Opening the PDF reveals embedded links. Under the **Processes** tab on the right side of ANY.RUN, browser execution arguments (`iexplore.exe`) reveal the destination URL.
 - 👉 **Answer:** `https://lihi1.com/JqdmJ`
 
-<img width="705" height="326" alt="image7phishing" src="https://github.com/user-attachments/assets/fb735302-3b1a-4328-bde6-0d28a9bc7217" />
+<img width="710" height="848" alt="image8phishing" src="https://github.com/user-attachments/assets/e1251ac1-4f6d-4d6b-8876-0639e9fe080e" />
 
 #### ❓ Question 5: Navigate to the Connections (or DNS Requests) tab. Which IP does the domain from Q4 resolve to?
 - **Analysis:** Switching to the **Connections** or **DNS Requests** tab in ANY.RUN lists network requests. Locate the domain from Q4 and check its resolved Destination IP.
 - 👉 **Answer:** `35.244.149.249`
 
-<img width="710" height="848" alt="image8phishing" src="https://github.com/user-attachments/assets/f17d49f2-ca3e-4cb5-b3e0-e19008c92e9f" />
+<img width="1081" height="375" alt="image9phishing" src="https://github.com/user-attachments/assets/b11051e0-59cd-467c-bef6-2643124f8d1d" />
 
 ---
 
@@ -411,8 +411,6 @@ PhishTool is a platform designed to streamline and automate phishing email inves
 #### ❓ Question 1: What is the file name of the malicious Excel attachment?
 - **Analysis:** Check the initial process object or starting file listed at the top of the ANY.RUN analysis session.
 - 👉 **Answer:** `CBJ200620039539.xlsx`
-
-<img width="1081" height="375" alt="image9phishing" src="https://github.com/user-attachments/assets/6229b4cc-59d6-4ca1-905d-3e18d07b7a3c" />
 
 #### ❓ Question 2: What suspicious process is created after the attachment is launched?
 - **Analysis:** Launching the Excel file triggers malicious macros/exploits that spawn a secondary process. In the Process Tree on the right panel, observe the child process spawned by Excel.
