@@ -1,4 +1,4 @@
-# Wireshark: Packet Operations
+# 🦈 Wireshark: Packet Operations
 
 Learn the fundamentals of packet analysis with Wireshark and how to find the needle in the haystack!
 
