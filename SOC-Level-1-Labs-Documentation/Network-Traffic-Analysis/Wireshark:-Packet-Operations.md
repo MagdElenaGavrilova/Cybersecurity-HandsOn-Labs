@@ -1,4 +1,4 @@
-# Wireshark: The Advanced-Level Packet Analysis
+# Wireshark: Packet Operations
 
 Learn the fundamentals of packet analysis with Wireshark and how to find the needle in the haystack!
 
