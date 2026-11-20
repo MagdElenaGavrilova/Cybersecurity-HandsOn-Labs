@@ -103,9 +103,9 @@ To understand Nmap scans, you must know how individual TCP flags are filtered:
 
 3. **How many "UDP close port" messages are there?**
    - **Filter:** `icmp.type==3 and icmp.code==3`
-   - **Answer:** `31`
+   - **Answer:** `1083`
 
-<img width="790" height="800" alt="UDP error message q 3" src="https://github.com/user-attachments/assets/984c6565-b7eb-47c5-91e3-042b5183f553" />
+<img width="790" height="800" alt="UDP error message q 3" src="https://github.com/user-attachments/assets/aee5ef5c-10ab-480a-825f-f4c7e6adacd1" />
 
 ---
 
