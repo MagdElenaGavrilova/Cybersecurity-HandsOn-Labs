@@ -335,7 +335,7 @@ Here is an exact workflow on how to extract all answers directly in NetworkMiner
    - In the `Files` tab (or via right-click to open/view the file associated with frame 76469), review the content of the file to find the name and surname.
    - **Answer:** `Ned Flanders`
   
--d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />
+-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269"https://github.com/user-attachments/assets/50bd7e20-e3be-4363-8269-d9a66e82fc2c" />
 
 ---
 
@@ -495,3 +495,85 @@ Since the list in Parameters is long and the scrollbar is at the top, to count a
 
 ---
 
+### 📁 3. Analysis and Answers for `case2.pcap`
+*(Restart NetworkMiner before loading `case2.pcap`!)*
+
+1️⃣ **What is the USB product's brand name?**
+- **How to find it in NetworkMiner:**
+  After a hard search, I finally found an image of a USB in the `Images` section where by hovering with the mouse I saw the answer.
+- **Answer:** `ASIX`
+
+<img width="1388" height="828" alt="asix usb brand " src="https://github.com/user-attachments/assets/6ab49e1b-4074-47cb-8ebd-4d6d37248601" />
+
+
+2️⃣ **What is the name of the phone model?**
+- **How to find it in NetworkMiner:**
+  I honestly found this question's answer very hard too, but after a long search in `Images` I also found a picture of a mobile phone `Lumia 535` which is the only thing that fits the question.
+- **Answer:** `Lumia 535`
+
+<img width="1389" height="829" alt="lumia 535" src="https://github.com/user-attachments/assets/9f1363e4-2b0c-42fd-8282-7eabcf6accf2" />
+
+---
+
+3️⃣ **What is the source IP of the fish image?**
+- **How to find it in NetworkMiner:**
+  Filter keyword: `fish`
+  - **Answer:** `50.22.95.9`
+
+<img width="1122" height="316" alt="fish img " src="https://github.com/user-attachments/assets/cd03b916-c9d8-485f-8acd-5cde6812f586" />
+
+
+  - You can also find it directly in the `Images` section and by hovering with the mouse see the source IP address.
+
+---
+
+<img width="1381" height="804" alt="fish 2 del ans" src="https://github.com/user-attachments/assets/8e72672e-d86e-4aa1-a146-09abc8ecb3c9" />
+
+
+4️⃣ **What is the password of homer.pwned.se@gmx.com?**
+- **How to find it in NetworkMiner:**
+  1. Open the `Credentials` tab (or `Messages`).
+  2. Find the entry for user `homer.pwned.se@gmx.com`.
+  3. Copy or read the value from the `Password` column.
+- **Answer:** `spring2015`
+
+<img width="1387" height="819" alt="pass spring2015" src="https://github.com/user-attachments/assets/97b8cc03-3711-467d-a55a-d6216e356580" />
+
+---
+
+5️⃣ **What is the DNS query of frame 62001?**
+- **How to find it in NetworkMiner:**
+  1. Open the `DNS` tab.
+  2. Filter or find the entry for Frame `62001`.
+  3. Look at the `DNS Query` column.
+- **Answer:** `pop.gmx.net`
+
+<img width="1385" height="614" alt="dns query" src="https://github.com/user-attachments/assets/8ef7d486-9f00-4db1-b4b3-e57ac7f4c9e8" />
+
+---
+
+### 🔥 EXTRA FROM ME: SOC & DFIR Takeaways from the Exercises
+- **Real forensic picture from `case1` and `case2`:**
+  `case1` shows classic network analysis of older systems (Windows XP) and traditional unencrypted protocols (IMAP on port 143, HTTP with different Content-Types), where NetworkMiner quickly extracts metrics for transferred bytes and sessions.
+  `case2` demonstrates how device identity artifacts (USB brand, phone model via User-Agent), multimedia artifacts (images with their source IP addresses), cleartext credentials (GMX email and password), and DNS queries are extracted from network traffic.
+- **Why restarting the tool makes a huge difference:**
+  When parsing large PCAP files in NetworkMiner's memory, previously saved data from other PCAPs can get mixed up in the panels or slow down the application. A clean restart guarantees that all tabs display only the artifacts from the current case.
+
+---
+
+## Task 8: Conclusion
+
+### 📌 1. Main Conclusions and Golden Rules from the Room
+- In this room we went through the basics of NetworkMiner — what the tool is, how it works, and how `pcap` files are investigated.
+- **Key rules to remember:**
+  - Do not use this tool as a primary sniffer.
+  - Use it for a quick overview of the traffic, and then continue with Wireshark and `tcpdump` for deeper investigation.
+
+---
+
+### 🔥 EXTRA FROM ME: How Do the Recommended Tools Connect in SOC / NSM?
+- **NetworkMiner + Wireshark + `tcpdump`:**
+  NetworkMiner gives a quick overview of hosts, extracted files, images, credentials, and messages; Wireshark gives detailed packet/protocol inspection; and `tcpdump` is great for quickly capturing and filtering traffic via the command line.
+- **Where do Snort and Brim fit into the bigger picture?**
+  Snort is a well-known Network Intrusion Detection / Prevention System (IDS/IPS) that compares traffic against rules to detect suspicious or malicious activity.
+  Brim helps investigate and search through larger amounts of recorded traffic data and logs in a more analytical, structured way.
