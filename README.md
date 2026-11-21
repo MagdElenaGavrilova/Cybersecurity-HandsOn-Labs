@@ -9,5 +9,5 @@ Welcome to my cybersecurity knowledge base and lab documentation repository. Thi
 * **Background:** 7 Years in Intelligence & Law Enforcement (Police) 
 * **Current Focus:** Transitioning to **Junior SOC Analyst / Incident Response**
 * **Education:** Ironhack Cybersecurity Bootcamp 
-
+* **TryHackMe:**  𝐓𝐨𝐩 𝟏% | **Name:** 𝐌𝐀𝐆𝐢
 ---
